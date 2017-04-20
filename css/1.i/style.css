@@ -1,0 +1,12 @@
+p:hover{
+    color:slategray;
+}
+p:hover span{
+    
+    color: red;
+
+}
+
+p:hover milk{
+    background-color: darkred;
+}
